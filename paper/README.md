@@ -11,6 +11,6 @@ This is the final v1.0 treatment, not a pending packaging decision:
 - MDGR v1.0 is published as a self-contained specification;
 - the historical paper remains a separate publication artifact;
 - if the paper is later published on a public preprint or archival platform, this file may link to that public record;
-- the repository's Apache-2.0 license does **not** apply to a paper that is not included here.
+- the repository's licenses (CC BY 4.0 for documentation, MIT for software) do **not** apply to a paper that is not included here.
 
 No paper redistribution rights are implied by this repository.

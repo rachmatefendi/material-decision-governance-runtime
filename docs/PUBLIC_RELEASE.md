@@ -13,7 +13,7 @@
 
 `ai-governance` · `llm` · `agentic-ai` · `decision-governance` · `runtime-assurance` · `human-in-the-loop` · `risk-management` · `authority-control`
 
-**License:** Apache-2.0
+**License:** CC BY 4.0 for specification and documentation; MIT for software when added (v1.0 was released under Apache-2.0)
 
 **Paper treatment:** not bundled; separate publication artifact.
 

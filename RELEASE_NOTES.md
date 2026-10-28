@@ -44,7 +44,7 @@ The proposed behavioral checks have not yet been reported as an executed evaluat
 
 ### License
 
-Repository contents are licensed under **Apache License 2.0**, except where explicitly stated otherwise.
+v1.0 was released under **Apache License 2.0**. As of 2026-10-29, specification, documentation and examples are licensed under **CC BY 4.0**; software added later will be MIT-licensed. See [`README.md`](README.md#license).
 
 ### Historical paper
 

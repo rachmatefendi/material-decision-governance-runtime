@@ -337,9 +337,12 @@ See [`paper/README.md`](paper/README.md) and [`docs/NOMENCLATURE.md`](docs/NOMEN
 
 ## License
 
-Except where explicitly stated otherwise, this repository is licensed under the **Apache License 2.0**.
+Copyright © 2026 Rachmat Efendi.
 
-See [`LICENSE`](LICENSE) and [`NOTICE`](NOTICE).
+- **Specification, documentation and examples:** [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE).
+- **Software** (validators, reference implementations), when added: MIT License, stated in the files concerned.
+
+See [`LICENSE`](LICENSE) and [`NOTICE`](NOTICE). Copies obtained before 2026-10-29 were distributed under Apache License 2.0 and remain usable under those terms.
 
 The historical paper is not part of this licensed repository distribution.
 

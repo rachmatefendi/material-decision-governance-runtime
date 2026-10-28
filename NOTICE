@@ -1,5 +1,12 @@
 Material Decision Governance Runtime (MDGR) v1.0
 Copyright 2026 Rachmat Efendi
 
-Licensed under the Apache License, Version 2.0.
+Specification, documentation and examples are licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0).
+Software added to this repository is licensed under the MIT License,
+as stated in the files concerned.
+
+Copies obtained before 2026-10-29 were distributed under the
+Apache License, Version 2.0.
+
 The historical EOS/DGR research paper is not part of this distribution.
